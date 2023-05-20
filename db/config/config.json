@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root123",
+    "database": "art",
+    "host": "35.225.50.180",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "root123",
+    "database": "art",
+    "host": "35.225.50.180",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "root123",
+    "database": "art",
+    "host": "35.225.50.180",
+    "dialect": "mysql"
+  }
+}
