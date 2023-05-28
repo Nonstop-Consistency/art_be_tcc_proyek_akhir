@@ -65,7 +65,7 @@ The following routes are set up, and will return JSON data:
 ```json
 {
   "title": "monalisa",
-  "year": 1948,
+  "year": "1948",
   "movement": "movement",
   "medium": "medium"
 }
@@ -76,7 +76,7 @@ The following routes are set up, and will return JSON data:
 ```json
 {
   "title": "diponegoro",
-  "year": 1932,
+  "year": "1932",
   "movement": "movement",
   "medium": "medium"
 }
@@ -95,8 +95,8 @@ The following routes are set up, and will return JSON data:
   "firstName": "affandi",
   "lastName": "affandi",
   "nationality": "indonesia",
-  "born": 1920,
-  "died": 1980
+  "born": "1920",
+  "died": "1980"
 }
 ```
 
@@ -107,8 +107,8 @@ The following routes are set up, and will return JSON data:
   "firstName": "rahmad",
   "lastName": "affandi",
   "nationality": "indonesia",
-  "born": 1920,
-  "died": 1980
+  "born": "1920",
+  "died": "1980"
 }
 ```
 
