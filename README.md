@@ -67,7 +67,9 @@ The following routes are set up, and will return JSON data:
   "title": "monalisa",
   "year": "1948",
   "movement": "movement",
-  "medium": "medium"
+  "medium": "medium",
+  "artistId" : "1",
+  "location" : "2"
 }
 ```
 
@@ -78,7 +80,9 @@ The following routes are set up, and will return JSON data:
   "title": "diponegoro",
   "year": "1932",
   "movement": "movement",
-  "medium": "medium"
+  "medium": "medium",
+  "artistId" : "1",
+  "location" : "2"
 }
 ```
 
